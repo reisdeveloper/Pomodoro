@@ -31,7 +31,7 @@ class EntryTime extends StatelessWidget {
               style: ElevatedButton.styleFrom(
                 shape: const CircleBorder(),
                 padding: const EdgeInsets.all(10),
-                backgroundColor: Colors.red,
+                backgroundColor: Colors.blue,
               ),
               child: const Icon(
                 Icons.arrow_downward,
@@ -49,7 +49,7 @@ class EntryTime extends StatelessWidget {
               style: ElevatedButton.styleFrom(
                 shape: const CircleBorder(),
                 padding: const EdgeInsets.all(10),
-                backgroundColor: Colors.red,
+                backgroundColor: Colors.blue,
               ),
               child: const Icon(
                 Icons.arrow_upward,
