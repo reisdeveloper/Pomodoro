@@ -1,4 +1,8 @@
 # Pomodoro
+<<<<<<< HEAD
+=======
+
+>>>>>>> 07ec9bd608e3ed6de6571bdc1b380b59987a15fe
 A new Flutter project.
 
 ## Getting Started
